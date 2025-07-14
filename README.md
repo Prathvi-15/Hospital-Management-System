@@ -4,7 +4,6 @@
 
 The Hospital Management System is a Java-based application that streamlines and automates day-to-day hospital operations. It offers functionality to manage patients, rooms, departments, employees, ambulance tracking, and discharge processes. Built using **Java**, **MySQL**, and **JDBC**, the system securely stores and retrieves data through a MySQL database and includes secure login/logout functionality for authorized access.
 
----
 
 ✨ Features
 
@@ -16,7 +15,7 @@ The Hospital Management System is a Java-based application that streamlines and 
 - Ambulance tracking and management
 - Discharge processing for admitted patients
 
----
+
 
 🛠️ Technologies Used
 
@@ -26,7 +25,6 @@ The Hospital Management System is a Java-based application that streamlines and 
 - Console-based User Interface (CLI)
 - IntelliJ IDEA / Eclipse (Recommended IDEs)
 
----
 
  ▶️ How to Run the Project
 
@@ -37,7 +35,7 @@ The Hospital Management System is a Java-based application that streamlines and 
 - MySQL Workbench or Command-Line Client
 - Java-compatible IDE or terminal
 
-### 🛠 Steps
+ 🛠 Steps
 
 1. Clone or Download the Project
 
