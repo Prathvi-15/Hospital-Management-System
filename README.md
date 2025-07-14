@@ -41,4 +41,5 @@ The Hospital Management System is a Java-based application that streamlines and 
 
 bash
 git clone https://github.com/yourusername/HospitalManagementSystem.git
+
 cd HospitalManagementSystem
